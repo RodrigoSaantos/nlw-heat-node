@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img alt="NLW-Heat" title="#NLWHeat" src="public/nlwheat.svg" width="600"/>
+  <img alt="NLW-Heat" title="#NLWHeat" src="public/nlw-heat.png" width="500"/>
 </h2>
 
 <h1 align="center">NLW Heat - Node.js</h1>
